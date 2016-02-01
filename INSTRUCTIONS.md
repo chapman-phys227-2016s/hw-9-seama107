@@ -13,7 +13,7 @@
     * Change _\<your name\>_ and _\<date\>_ at the beginning of the file
     * Edit the line ```[![Build Status](https://travis-ci.org/chapman-phys227-2016s/UPDATETHIS.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/UPDATETHIS)``` replacing both instances of ```UPDATETHIS``` with the name of this repository (should be something like ```hw-1-<your git name>```)
     * Reread the __Honor Pledge__ again and 'sign' it with your name at the end
-    * Add your own text in the __Description__ section
+    * Add your own text in the __Assessment__ section
 
 * Connnect the repository to Travis CI
     * On the github site, go to ```settings``` then to ```Webhooks & services```
