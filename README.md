@@ -6,9 +6,20 @@
 
 **Due date:** 2016/02/09
 
-## Description
+## Specification
 
-_\<Give a description of your approach to the assignment here. This should include the assignment specification in your own words, as well as commentary about what pitfalls you found and how you addressed them.\>_
+Complete the following exercises from the primary textbook, placing your solutions into separate files. In each file, write the solution as a callable function, so that you can write suitable test functions that demonstrate correct output using the nose framework. GitHub will automatically run your tests on every commit, indicating any failures via the Travis framework with build status above.
+
+1. Exercise 3.8 (```adaptive_trapezint.py```)
+1. Exercise 3.15 (```sinesum1.py```)
+1. Exercise 3.18 (```centered_diff.py```)
+1. Exercise 3.34 (```find_primes.py```)
+
+Finally, to cleanly present your work, create a Jupyter notebook ```hw1.ipynb``` that imports each of your python files as modules and demonstrates the functionality. The notebook should be formatted professionally using Markdown headings, including your name and a brief description of each homework section.
+
+## Assessment
+
+_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
 
 ## Honor Pledge
 
