@@ -1,7 +1,9 @@
 # PHYS227 HW 1
 
 **Author:** _\<your name\>_
+
 [![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-1-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-1-YOURNAME)
+
 **Due date:** 2016/02/09
 
 ## Description

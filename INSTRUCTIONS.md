@@ -35,4 +35,4 @@
     """    
     ```
 
-* Ensure that what you push to the github repository builds correctly (the build badge displays as [![Build Status](https://img.shields.io/travis/chapman-phys227/Information.svg)]()) in the README file.
+* Ensure that what you push to the github repository builds correctly (the build badge displays as [![Build Status](https://camo.githubusercontent.com/c71f5665277589f9ba8039c6e1b8bb120a3640b2/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f436861706d616e43505343323330537072696e6731362f41737369676e6d656e742d582e737667)]()) in the README file.
