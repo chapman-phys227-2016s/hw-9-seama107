@@ -1,21 +1,23 @@
-# PHYS227 HW 3
+# PHYS227 HW 5
 
 **Author:** _\<your name\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-3-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-3-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME)
 
-**Due date:** 2016/02/23
+**Due date:** 2016/03/08
 
 ## Specification
 
+**Hints:** You can import and use results from the classwork.  Vectorize computations as much as possible.  For tests involving plots, use your Jupyter notebook instead of the nosetests framework.
+
 Complete the following exercises from the primary textbook, placing your solutions into separate files. In each file, write the solution as a callable function, so that you can write suitable test functions that demonstrate correct output using the nose framework. GitHub will automatically run your tests on every commit, indicating any failures via the Travis framework with build status above.
 
-1. Exercise A.4 (```loan.py```)
-1. Exercise A.11 (```root_finder_examples.py```)
-1. Exercise A.13 (```arclength.py```)
-1. Exercise A.14 (```sin_Taylor_series_diffeq.py```)
+1. Exercise B.1 (```interpolate_exp_cos.py```)
+1. Exercise B.2 (```sin_deriv.py```) 
+1. Exercise B.6 (```integrate_exp.py```) 
+1. Exercise B.8 (```diff_functions.py```) 
 
-Finally, to cleanly present your work, create a Jupyter notebook ```hw3.ipynb``` that imports each of your python files as modules and demonstrates the functionality. The notebook should be formatted professionally using Markdown headings, including your name and a brief description of each homework section.
+Finally, to cleanly present your work, create a Jupyter notebook ```hw5.ipynb``` that imports each of your python files as modules and demonstrates the functionality. The notebook should be formatted professionally using Markdown headings, including your name and a brief description of each homework section.
 
 ## Assessment
 
