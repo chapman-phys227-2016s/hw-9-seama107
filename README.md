@@ -1,21 +1,18 @@
-# PHYS227 HW 7
+# PHYS227 HW 8
 
 **Author:** _\<your name\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-7-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-7-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-8-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-8-YOURNAME)
 
-**Due date:** 2016/04/05
+**Due date:** 2016/04/14
 
 ## Specification
 
 Complete the following exercises from the primary textbook, placing your solutions into separate files. In each file, write the solution as a callable function, so that you can write suitable test functions that demonstrate correct output using the nose framework. GitHub will automatically run your tests on every commit, indicating any failures via the Travis framework with build status above.
 
-1. Exercise 7.8 (```Lagrange_poly3.py```) *Hint:* Liberally reuse the exercises from HW2 to save yourself work.
-1. Exercise 7.9 (```Lagrange_poly4.py```) 
-1. Exercise 7.27 (```Polynomial_vec.py```). *Note:* Code and use the implementation in Section 7.3.7, including the test function.  Make sure you understand how everything works before introducing the modifications indicated by the exercise. Demonstrate the speed-up in your Jupyter notebook, and explain why it is faster.
-1. Exercise 7.28 (```Polynomial_dict.py```) Explain the pros and cons of this modification vs. that of exercise 7.27.
+1. Exercise 8.37 (```disorder2.py```) *Hint:* Use your CW8 vectorized class as a base class for this exercise.  Subclass that class to create a new random walk class that can handle boundaries.  Use the ideas from Exercise 8.35 and 8.36 to implement the boundary detection for a box with a holey divider.  As with the classwork, create an animated gif of your final result to show that it works as expected, and display it in your notebook as an image in a Markdown cell.
 
-Finally, to cleanly present your work, create a Jupyter notebook ```hw7.ipynb``` that imports each of your python files as modules and demonstrates the functionality. The notebook should be formatted professionally using Markdown headings, including your name and a brief description of each homework section.
+Finally, to cleanly present your work, create a Jupyter notebook ```hw8.ipynb``` that imports each of your python files as modules and demonstrates the functionality. The notebook should be formatted professionally using Markdown headings, including your name and a brief description of each homework section.
 
 ## Assessment
 
