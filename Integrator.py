@@ -24,7 +24,7 @@ class Integrator:
         self.points, self.weights = self.construct_method()
 
     def construct_method(self):
-        raise NotImplementedError(’no rule in class %s’ % self.__class__.__name__)
+        raise NotImplementedError("no rule in class %s" % self.__class__.__name__)
 
     def integrate(self, f):
         """

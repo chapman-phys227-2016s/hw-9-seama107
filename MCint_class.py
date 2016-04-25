@@ -26,7 +26,7 @@ class MCint_class(Integrator):
         are now involved
         """
         if seed == -1:
-            self.RNG = np.random.RandomState(int(time.time() * 100000))
+            self.RNG = np.random.RandomState(int(time.time() * 100000) % 4294967295 )
         else:
             self.RNG = np.random.RandomState(seed)
         Integrator.__init__(self, a, b, n)
